@@ -1,0 +1,15 @@
+#Example of Basin_grid_information taken from MESH_drainge_database.r2c
+gridtype = lonlat
+gridsize = 726
+xname = lon
+xlongname = Longitude
+xunits = degrees_east
+yname = lat
+ylongname = Latitude
+yunits = degrees_north
+xsize = 33
+ysize = 22
+xfirst = -70.4915 #<xOrigin + xDelta/2.0>
+xinc = 0.125
+yfirst = 45.6485 #<yOrigin + yDelta/2.0>
+yinc = 0.125 
