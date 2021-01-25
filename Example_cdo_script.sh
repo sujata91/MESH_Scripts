@@ -1,4 +1,4 @@
-#Shell script to clip the netcdf file using bilinear interpolation based on basin_grid_information, fill the missing value for leap year (Feb 29 based on the average value of Feb 28 and March 1 and fill the missing cell value to nearest neighbor cell)
+#Shell script to clip the netcdf file using bilinear interpolation based on basin_grid_information, fill the missing value for leap year (Feb 29 based on the average value of Feb 28 and March 1) and fill the missing cell value to nearest neighbor cell
 #Written by Sujata(sujata.budhathoki@usask.ca) and Daniel Princz (daniel.princz@canada.ca) (2020/10/16)
 #Following example clips the CanRCM4-WGC data from the Graham cluster (script can be modified to clip any other netcdf source file and fill the missing values) 
 #Output is netcdf file
